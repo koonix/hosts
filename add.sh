@@ -5,7 +5,7 @@ main ()
     [ -f hosts-old ] && echo "error: hosts-old exists" && exit 1
     cp hosts hosts-old
     mklist "$@" | format >> hosts
-    sort hosts > hosts-sorted
+    sort -u hosts > hosts-sorted
     mv -f hosts-sorted hosts
 }
 
