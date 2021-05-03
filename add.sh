@@ -1,4 +1,6 @@
 #!/bin/sh
+# get a bunch of hosts as argument (or just a file containing  the hosts),
+# then add them in and commit the changes.
 
 main ()
 {
