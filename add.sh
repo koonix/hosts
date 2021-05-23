@@ -25,8 +25,8 @@ mklist ()
 
 format ()
 {
-    local list="$(cat)"
-    local list_www="$(echo "$list" | add_www)"
+    list="$(cat)"
+    list_www="$(echo "$list" | add_www)"
     ( echo "$list"; echo "$list_www" ) | add_ip
 }
 
