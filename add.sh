@@ -1,6 +1,11 @@
 #!/bin/sh
-# get a bunch of hosts as argument (or just a file containing  the hosts),
+# get a bunch of websites as arguments (or just a file, one website per line),
 # then add them in and commit the changes.
+#
+# example usage:
+#   $ ./add.sh abc.com xyz.org ...
+# or:
+#   $ ./add.sh list-of-websites.txt
 
 main ()
 {
