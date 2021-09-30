@@ -3,7 +3,7 @@
 ad and porn websites that I come across,
 that and are not blocked by other hosts files.
 
-the file `safesearch` forces google's (and other search engines) safesearch on.
+the file `safesearch` forces google's (and potentially other search engines) safesearch.
 
 other anti-porn hosts files:
 
