@@ -1,4 +1,7 @@
 0.0.0.0 duckduckgo.com
+0.0.0.0 images.duckduckgo.com
+0.0.0.0 bing.com
+0.0.0.0 images.bing.com
 0.0.0.0 wallhaven.cc
 0.0.0.0 flickr.com
 0.0.0.0 staticflickr.com
@@ -9,6 +12,9 @@
 0.0.0.0 mobile.twitter.com
 0.0.0.0 4channel.org
 0.0.0.0 www.duckduckgo.com
+0.0.0.0 www.images.duckduckgo.com
+0.0.0.0 www.bing.com
+0.0.0.0 www.images.bing.com
 0.0.0.0 www.wallhaven.cc
 0.0.0.0 www.flickr.com
 0.0.0.0 www.staticflickr.com
