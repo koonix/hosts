@@ -1,7 +1,7 @@
 # hosts
 
 ad and porn websites that I come across,
-that and are not blocked by other hosts files.
+that are not blocked by other famous hosts files.
 
 the file `safesearch` forces google's (and potentially other search engines) safesearch.
 
