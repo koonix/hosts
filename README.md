@@ -1,7 +1,7 @@
 # hosts
 
 ad and porn websites that I come across,
-that and are not blocked by other hosts files.
+that are not blocked by other famous hosts files.
 
 the file `safesearch` forces google's (and potentially other search engines) safesearch.
 
@@ -21,11 +21,11 @@ add your websites in:
 git push
 ```
 
-or put all of your websites in a text file, one per line,
+or put the list of sites in a text file, one per line;
 then:
 
 ```sh
-./add.sh list-of-websites.txt
+./add.sh list-of-sites.txt
 git push
 ```
 
