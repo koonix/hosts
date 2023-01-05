@@ -31,6 +31,7 @@ mklist ()
 format ()
 {
     list="$(cat)"
+    [ -z "$list" ] && return 1
     list_www="$(echo "$list" | add_www)"
     ( echo "$list"; echo "$list_www" ) | add_ip
 }
